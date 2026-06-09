@@ -37,3 +37,4 @@ Developed an interactive Power BI dashboard to analyze sales, profit, customer b
 🚀 **Outcome:** Delivered a user-friendly Business Intelligence dashboard that helps stakeholders monitor performance, discover trends, and make informed business decisions through interactive data visualization.
 
 # Screenshot:
+How the Dashboard looks at the end:"https://github.com/Swathi-Gattem/Global-Superstore-Sales-Analysis/blob/main/Dashboard%20Screenshot.pngks"
